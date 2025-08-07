@@ -10,7 +10,5 @@ Teste de vídeos do youtube, cria uma miniatura da imagem que funciona como um l
 Aqui acho que é o mesmo, mas com mais controle, vamos testar:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9EjFHq4miFk
-" target="_blank" rel="noopener"><img src="http://img.youtube.com/vi/9EjFHq4miFk/0.jpg" 
+" target="_blank""><img src="http://img.youtube.com/vi/9EjFHq4miFk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"} 
