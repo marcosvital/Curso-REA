@@ -4,3 +4,5 @@ plugins:
 
 title: [Curso aberto - REA e licenças Creative Commons]
 description: [Um curso autoinstrucional sobre Recursos Educacionais Abertos e licenças de uso]
+
+markdown: kramdown
