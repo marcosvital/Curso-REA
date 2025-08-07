@@ -8,6 +8,8 @@ Teste de vídeos do youtube, cria uma miniatura da imagem que funciona como um l
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
 Aqui acho que é o mesmo, mas com mais controle, vamos testar:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9EjFHq4miFk
+" target="_blank"><img src="http://img.youtube.com/vi/9EjFHq4miFk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+https://www.youtube.com/watch?v=9EjFHq4miFk
