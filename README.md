@@ -13,4 +13,4 @@ Aqui acho que é o mesmo, mas com mais controle, vamos testar:
 " target="_blank"><img src="http://img.youtube.com/vi/9EjFHq4miFk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
-https://www.youtube.com/watch?v=9EjFHq4miFk
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"} 
