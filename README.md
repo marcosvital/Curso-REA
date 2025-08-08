@@ -18,7 +18,8 @@ Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob u
 
 Esta página reune todos os conteúdos de um curso criado para falar sobre como usar licenças Creative Commons e outras ferramentas para se usar e criar Recursos Educaionais Abertos (REA). As vídeo-aulas estão organizadas em uma [playlist do Youtube](https://www.youtube.com/@marcosvital), os slides estão disponíveis aqui mesmo nesta página para download (após a indicação de cada vídeo associado) e os textos complementares estão em [minha página do Medium](https://marcosvital.medium.com). Conteúdos externos também serão indicados ao longo do caminho. 
 
-O conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que este curso é autoinstrucional: isto quer dizer que você irá ditar o ritmo e a forma de estudar. Ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?
+O conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que este curso é autoinstrucional: isto quer dizer que você irá ditar o ritmo e a forma de estudar. <ins>Ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
+
 
 ***
 
@@ -69,10 +70,46 @@ Nesta aula vamos aprender sobre os elementos das licenças CC e conhecer as seis
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
+**Texto complementar:** [As licenças _Creative Commons_, disponível na minha página do Medium.](https://marcosvital.medium.com/as-licen%C3%A7as-creative-commons-afaf9a82cd2c)
+
 ### Usando as licenças _Creative Commons_
 
 Agora vamos aprender como escolher a licença que desejamos usar em nossos materiais e como podemos usar outros materiais disponíveis na internet a partir do que suas licenças permitem e não permitem. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
+**Texto complementar:** [Usando e alterando conteúdos com licenças CC, na minha página do Medium.](https://marcosvital.medium.com/usando-e-alterando-conte%C3%BAdos-com-licen%C3%A7as-cc-cd2474ed02c8)
 
+***
+
+## Módulo 3: as ferramentas
+
+Neste último módulo vamos aprender sobre ferramentas práticas que podem nos ajudar a colocar em prática a criação de REA dentro de um contexto acadêmico, em situações nas quais desejamos registrar de forma bem segura nossa autoria e adicionar o que criamos em nossos currículos. As três ferramentas que vou mostrar podem ser exploradas de forma independente, e você pode decidir quais delas usar.
+
+### Associando um DOI às suas criações usando o Zenodo
+
+Nesta aula vou mostrar como podemos criar e associar um DOI (um identificador de objeto digital) aos nossos REA, de forma gratuita usando o [Zenodo](https://zenodo.org/). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+### Solicitando e usando um ISBN e/ou ficha catalográfica pela Câmara Brasileira do Livro
+
+Nesta aula vou mostrar como você pode, ao criar um REA em formato de livro ou algo similar, solicitar um código ISBN e/ou uma ficha catalográfica para incluir em seu material. Este é um serviço pago, oferecido pela [Câmara Brasileira do Livro](https://cbl.org.br/). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+### Criando uma página como a deste curso, usando o GitHub
+
+Nesta aula vou mostrar algumas funcionalidades básica do [GitHub](https://github.com), uma ferramenta online que permite, dentre outras coisas, a criação de páginas como esta que vocês estão acessando, de forma gratuita. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+***
+
+## Módulo 4: encerramento e próximos passos
+
+Ufa, chegamos ao fim da nossa jornada... ou será que é o começo? A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+**Texto complementar:** [Por mais Recursos Educacionais Abertos em nossas Universidades!, na minha página do Medium.](https://marcosvital.medium.com/por-mais-recursos-educacionais-abertos-em-nossas-universidades-ce2ada95420c)
