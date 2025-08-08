@@ -104,6 +104,13 @@ Nesta aula vou mostrar algumas funcionalidades básica do [GitHub](https://githu
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
+### Recursos para se aprender Markdown
+
+Se você quer criar páginas usando o GitHub da forma como mostrei acima, vai precisar aprender um pouquiho de Markdown. O bom é que Markdown não é complicado, existem excelentes guias online e você pode até mesmo usar ferramentas que permitem editar seu texto via menu e depois copiar e colar onde quiser com as marcações já feitas! Então confira as minhas sugestões:
+
+- [StackEdit](https://stackedit.io), ferramenta para você escrever e editar textos em Markdown com ajuda de um menu.
+- Um ["guia definitivo de Markdown"](https://github.com/mende1/guia-definitivo-de-markdown), criado por Gustavo Mendel e disponível no GitHub.
+
 ***
 
 ## Módulo 4: encerramento e próximos passos
@@ -113,3 +120,10 @@ Ufa, chegamos ao fim da nossa jornada... ou será que é o começo? A imagem a s
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
 **Texto complementar:** [Por mais Recursos Educacionais Abertos em nossas Universidades!, na minha página do Medium.](https://marcosvital.medium.com/por-mais-recursos-educacionais-abertos-em-nossas-universidades-ce2ada95420c)
+
+***
+
+## Recursos úteis relacionados à REA e licenças abertas
+
+- [Página da Creative Commons listando ferramentas e links úteis para REA (conteúdo em inglês)](https://creativecommons.org/about/education/education-oer-resources/).
+- [Wikimidia Commons, projeto que reúne arquivos de mídia gratuitos e com diversos tipos de licenças de uso.](https://commons.wikimedia.org/wiki/Main_Page)
