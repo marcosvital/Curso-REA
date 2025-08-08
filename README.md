@@ -16,7 +16,19 @@ Esta página reune todos os conteúdos de um curso criado para falar sobre como 
 
 O conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que este curso é autoinstrucional: isto quer dizer que você irá ditar o ritmo e a forma de estudar. Ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?
 
+***
 
+## 1 - Boas vindas
+
+Vou começar me apresentando e falando brevemente sobre o nosso curso. A imagem a seguir irá te direcionar para o vídeo no Youtube:
+
+## 2 - Introdução ao curso
+
+Nesta aula vou falar mais sobre a estrutura do curso, seu conteúdo, organização e motivação. A imagem a seguir irá te direcionar para o vídeo no Youtube:
+
+## 3 - Por que usa ou criar REA?
+
+Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importância deles. Também vamos começar a entender o que é a Creative Commons, e por que vamos estudar suas licenlas.  A imagem a seguir irá te direcionar para o vídeo no Youtube:
 
 
 Teste de vídeos do youtube, cria uma miniatura da imagem que funciona como um link:
