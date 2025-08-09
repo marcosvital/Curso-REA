@@ -39,7 +39,11 @@ Vou começar me apresentando e falando brevemente sobre o nosso curso. A imagem 
 
 Agora que vocês já me conhecem, vamos falar com um pouco mais de detalhe sobre o curso (conteúdo, organização e motivação), e começar a explorar nosso conteúdo. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dwgHcFJ7_yA)](https://youtu.be/dwgHcFJ7_yA)
+
+**Slides disponíveis:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
+- Formato pdf em breve aqui
 
 #### Links e recursos úteis após a aula 1
 
