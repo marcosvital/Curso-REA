@@ -84,7 +84,7 @@ Neste módulo vamos aprender a respeito dos quatro elementos das licenças CC, a
 
 Nesta aula vamos aprender sobre os elementos das licenças CC e conhecer as seis licenças. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/_cC406nvbLc)](https://youtu.be/_cC406nvbLc)
 
 **Texto complementar:** [As licenças _Creative Commons_, disponível na minha página do Medium.](https://marcosvital.medium.com/as-licen%C3%A7as-creative-commons-afaf9a82cd2c)
 
