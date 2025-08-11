@@ -124,26 +124,19 @@ Nesta aula vou mostrar como você pode, ao criar um REA em formato de livro ou a
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/1X88_KYgyk8)](https://youtu.be/1X88_KYgyk8)
 
-***
-
-## Página em construção, vídeos e conteúdos estão sendo adicionados e editados.
-
-**Deste trecho em diante, o curso ainda não está 100% pronto.**
-
-***
-
 ### Aula 7: Criando uma página como a deste curso, usando o GitHub
 
 Nesta aula vou mostrar algumas funcionalidades básica do [GitHub](https://github.com), uma ferramenta online que permite, dentre outras coisas, a criação de páginas como esta que vocês estão acessando, de forma gratuita. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/hE0-DvpPz6Q)](https://youtu.be/hE0-DvpPz6Q)
 
-### Recursos para se aprender Markdown
+#### Links e recursos úteis após a aula 7:
 
-Se você quer criar páginas usando o GitHub da forma como mostrei acima, vai precisar aprender um pouquiho de Markdown. O bom é que Markdown não é complicado, existem excelentes guias online e você pode até mesmo usar ferramentas que permitem editar seu texto via menu e depois copiar e colar onde quiser com as marcações já feitas! Então confira as minhas sugestões:
-
-- [StackEdit](https://stackedit.io), ferramenta para você escrever e editar textos em Markdown com ajuda de um menu.
+- [Nosso repositório de exemplo no GitHub](https://github.com/marcosvital/pagina-exemplo), criado durante a aula.
+- [A página de exemplo gerada pelo repositório acima](https://marcosvital.github.io/pagina-exemplo/).
+- [A lista com os temas prontos que podem ser usados em páginas do GitHub](https://github.com/orgs/pages-themes/repositories?type=all).
 - Um ["guia definitivo de Markdown"](https://github.com/mende1/guia-definitivo-de-markdown), criado por Gustavo Mendel e disponível no GitHub.
+- [StackEdit](https://stackedit.io), ferramenta para você escrever e editar textos em Markdown com ajuda de um menu com opções (você edita o texto e ele gera as marcações em Markdown).
 
 ***
 
@@ -151,7 +144,7 @@ Se você quer criar páginas usando o GitHub da forma como mostrei acima, vai pr
 
 Ufa, chegamos ao fim da nossa jornada... ou será que é o começo? A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/5krDcaE1E0c)](https://youtu.be/5krDcaE1E0c)
 
 **Texto complementar:** [Por mais Recursos Educacionais Abertos em nossas Universidades!, na minha página do Medium.](https://marcosvital.medium.com/por-mais-recursos-educacionais-abertos-em-nossas-universidades-ce2ada95420c)
 
