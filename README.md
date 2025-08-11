@@ -4,12 +4,6 @@ _Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvit
 
 ***
 
-# Página em construção, vídeos e conteúdos estão sendo adicionados e editados.
-
-Enquanto este aviso estiver aqui, o curso ainda não está 100% pronto.
-
-***
-
 Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br), isso quer dizer que você pode:
 
 * **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato para qualquer fim, mesmo que comercial.
@@ -18,7 +12,7 @@ Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob u
 
 *** 
 
-Esta página reune todos os conteúdos de um curso criado para falar sobre como usar licenças Creative Commons e outras ferramentas para se usar e criar Recursos Educaionais Abertos (REA). As vídeo-aulas estão organizadas em uma [playlist do Youtube](https://www.youtube.com/@marcosvital), os slides estão disponíveis aqui mesmo nesta página para download (após a indicação de cada vídeo associado) e os textos complementares estão em [minha página do Medium](https://marcosvital.medium.com). Conteúdos externos também serão indicados ao longo do caminho. 
+Esta página reune todos os conteúdos de um curso criado para falar sobre como usar licenças Creative Commons e outras ferramentas para se usar e criar Recursos Educaionais Abertos (REA). As vídeo-aulas estão organizadas em uma [playlist do Youtube](https://www.youtube.com/playlist?list=PLOKVTjzY3Z9sI-M_DLnuNkw0djDIN9IT8), os slides estão disponíveis aqui mesmo nesta página para download (após a indicação de cada vídeo associado) e os textos complementares estão em [minha página do Medium](https://marcosvital.medium.com). Conteúdos externos também serão indicados ao longo do caminho. 
 
 O conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que este curso é autoinstrucional: isto quer dizer que você irá ditar o ritmo e a forma de estudar. <ins>Ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
 
@@ -60,7 +54,6 @@ Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importânc
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
 - Formato pdf em breve aqui
 
-
 #### _Creative Commons_: licenças, organização e movimento
 
 Neste [texto em minha página do Medium](https://marcosvital.medium.com/creative-commons-um-pouquinho-a-respeito-das-licen%C3%A7as-da-organiza%C3%A7%C3%A3o-e-do-movimento-2836ba945144) falo mais sobre o que é _Creative Commons_, em suas três facetas.
@@ -96,9 +89,23 @@ Nesta aula vamos aprender sobre os elementos das licenças CC e conhecer as seis
 
 Agora vamos aprender como escolher a licença que desejamos usar em nossos materiais e como podemos usar outros materiais disponíveis na internet a partir do que suas licenças permitem e não permitem. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/_DxuDBG5jro)](https://youtu.be/_DxuDBG5jro)
+
+**Slides disponíveis da aula 4:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1FwdsLRVceBZ1669yhoe6uLmSuwIp3RnlnEdAv5zn70s/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
+- Formato pdf em breve aqui
 
 **Texto complementar:** [Usando e alterando conteúdos com licenças CC, na minha página do Medium.](https://marcosvital.medium.com/usando-e-alterando-conte%C3%BAdos-com-licen%C3%A7as-cc-cd2474ed02c8)
+
+#### Links e recursos úteis após a aula 4
+
+- [License Chooser](https://creativecommons.org/chooser/), ferramenta online (em inglês) para seleção de licenças CC.
+
+***
+
+## Página em construção, vídeos e conteúdos estão sendo adicionados e editados.
+
+**Deste trecho em diante, o curso ainda não está 100% pronto.**
 
 ***
 
