@@ -6,17 +6,19 @@ _Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvit
 
 ***
 
-Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br), isso quer dizer que você pode:
+Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br), isso quer dizer que você:
 
-* **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato para qualquer fim, mesmo que comercial.
-* **Adaptar** — remixar, transformar, e criar a partir do material para qualquer fim, mesmo que comercial.
-* E que você **precisa**, ao fazer isso, manter o crédito de autoria original e indicar se fez modificações.
+* Pode **Compartilhar** — copiar e redistribuir o material em qualquer formato e para qualquer fim, mesmo que comercial.
+* Pode **Adaptar** — remixar, transformar e criar a partir do material original para qualquer fim, mesmo que comercial.
+* E que você **precisa**, ao fazer isso, manter a atribuição de autoria do material original, e indicar se fez modificações se criar material novo a partir dele.
 
 Se quiser citar este material como conteúdo acadêmico, você pode usar o seguinte formato:
 
 > Vital, Marcos Vinícius Carneiro. **Curso aberto - REA e licenças Creative Commons**. 2025. Disponível em [https://marcosvital.github.io/Curso-REA/](https://marcosvital.github.io/Curso-REA/), DOI: [10.5281/zenodo.16808794](https://doi.org/10.5281/zenodo.16808793)
 
 *** 
+
+## Apresentação
 
 Esta página reune todos os conteúdos de um curso criado para falar sobre como usar licenças Creative Commons e outras ferramentas para se usar e criar Recursos Educaionais Abertos (REA). As vídeo-aulas estão organizadas em uma [playlist do Youtube](https://www.youtube.com/playlist?list=PLOKVTjzY3Z9sI-M_DLnuNkw0djDIN9IT8), os slides estão disponíveis aqui mesmo nesta página para download (após a indicação de cada vídeo associado) e os textos complementares estão em [minha página do Medium](https://marcosvital.medium.com). Conteúdos externos também serão indicados ao longo do caminho. 
 
@@ -60,15 +62,15 @@ Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importânc
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
-#### _Creative Commons_: licenças, organização e movimento
+#### _Creative Commons_: licenças, organização e movimento:
 
 Neste [texto em minha página do Medium](https://marcosvital.medium.com/creative-commons-um-pouquinho-a-respeito-das-licen%C3%A7as-da-organiza%C3%A7%C3%A3o-e-do-movimento-2836ba945144) falo mais sobre o que é _Creative Commons_, em suas três facetas.
 
-#### Direitos autorais e como eles nos afetam
+#### Direitos autorais e como eles nos afetam:
 
 Neste [outro texto em minha página do Medium](https://marcosvital.medium.com/direitos-autorais-e-como-eles-nos-afetam-66c5acb82fc2) eu explico um pouco sobre Direitos Autorais e como eles nos afetam quando desejamos usar, modificar, criar e compartilhar conteúdo na internet.
 
-#### Mais sobre REA
+#### Mais sobre REA:
 
 - A [página da Wikipedia em português sobre REA](https://pt.wikipedia.org/wiki/Recursos_educacionais_abertos) é bem informativa, e pode te direcionar para outros conteúdos úteis.
 - A [página da UNESCO sobre Recursos Educacionais Abertos](https://www.unesco.org/en/open-educational-resources) (_Open Educational Resources_, OER em inglês) é muito informativa e também pode te direcionar para recursos e conteúdos úteis. Ela está em inglês.
@@ -103,7 +105,7 @@ Agora vamos aprender como escolher a licença que desejamos usar em nossos mater
 
 **Texto complementar:** [Usando e alterando conteúdos com licenças CC, na minha página do Medium.](https://marcosvital.medium.com/usando-e-alterando-conte%C3%BAdos-com-licen%C3%A7as-cc-cd2474ed02c8)
 
-#### Links e recursos úteis após a aula 4
+#### Links e recursos úteis após a aula 4:
 
 - [License Chooser](https://creativecommons.org/chooser/), ferramenta online (em inglês) para seleção de licenças CC.
 
