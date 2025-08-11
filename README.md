@@ -54,7 +54,12 @@ Agora que vocês já me conhecem, vamos falar com um pouco mais de detalhe sobre
 
 Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importância deles. Também vamos começar a entender o que é a Creative Commons, e por que vamos estudar suas licenças.  A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/QnanHVzm2eA)](https://youtu.be/QnanHVzm2eA)
+
+**Slides disponíveis:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
+- Formato pdf em breve aqui
+
 
 #### _Creative Commons_: licenças, organização e movimento
 
