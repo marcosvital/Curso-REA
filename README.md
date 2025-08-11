@@ -20,7 +20,7 @@ Se quiser citar este material como conteúdo acadêmico, você pode usar o segui
 
 Esta página reune todos os conteúdos de um curso criado para falar sobre como usar licenças Creative Commons e outras ferramentas para se usar e criar Recursos Educaionais Abertos (REA). As vídeo-aulas estão organizadas em uma [playlist do Youtube](https://www.youtube.com/playlist?list=PLOKVTjzY3Z9sI-M_DLnuNkw0djDIN9IT8), os slides estão disponíveis aqui mesmo nesta página para download (após a indicação de cada vídeo associado) e os textos complementares estão em [minha página do Medium](https://marcosvital.medium.com). Conteúdos externos também serão indicados ao longo do caminho. 
 
-O conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que este curso é autoinstrucional: isto quer dizer que você irá ditar o ritmo e a forma de estudar. <ins>Ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
+**Avisos importantes:** o conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que **este curso é autoinstrucional**: isto quer dizer que você irá ditar o ritmo e a forma de estudar, e também que <ins>ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
 
 
 ***
