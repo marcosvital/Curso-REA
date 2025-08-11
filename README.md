@@ -2,6 +2,8 @@
 
 _Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvital)_
 
+[![DOI](https://zenodo.org/badge/1033919892.svg)](https://doi.org/10.5281/zenodo.16808793)
+
 ***
 
 Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br), isso quer dizer que você pode:
@@ -9,6 +11,10 @@ Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob u
 * **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato para qualquer fim, mesmo que comercial.
 * **Adaptar** — remixar, transformar, e criar a partir do material para qualquer fim, mesmo que comercial.
 * E que você **precisa**, ao fazer isso, manter o crédito de autoria original e indicar se fez modificações.
+
+Se quiser citar este material como conteúdo acadêmico, você pode usar o seguinte formato:
+
+> Vital, Marcos Vinícius Carneiro. **Curso aberto - REA e licenças Creative Commons**. 2025. Disponível em [https://marcosvital.github.io/Curso-REA/](https://marcosvital.github.io/Curso-REA/), DOI: [10.5281/zenodo.16808794](https://doi.org/10.5281/zenodo.16808793)
 
 *** 
 
