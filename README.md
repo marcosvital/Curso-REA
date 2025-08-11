@@ -41,7 +41,7 @@ Agora que vocês já me conhecem, vamos falar com um pouco mais de detalhe sobre
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dwgHcFJ7_yA)](https://youtu.be/dwgHcFJ7_yA)
 
-**Slides disponíveis:**
+**Slides disponíveis da aula 1:**
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
 - Formato pdf em breve aqui
 
@@ -56,7 +56,7 @@ Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importânc
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/QnanHVzm2eA)](https://youtu.be/QnanHVzm2eA)
 
-**Slides disponíveis:**
+**Slides disponíveis da aula 2:**
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
 - Formato pdf em breve aqui
 
@@ -85,6 +85,10 @@ Neste módulo vamos aprender a respeito dos quatro elementos das licenças CC, a
 Nesta aula vamos aprender sobre os elementos das licenças CC e conhecer as seis licenças. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/_cC406nvbLc)](https://youtu.be/_cC406nvbLc)
+
+**Slides disponíveis da aula 3:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1h8HKLePEqBilQu5ALxNjE3F1ZAvvVnZJhT1FHJXzkpQ/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
+- Formato pdf em breve aqui
 
 **Texto complementar:** [As licenças _Creative Commons_, disponível na minha página do Medium.](https://marcosvital.medium.com/as-licen%C3%A7as-creative-commons-afaf9a82cd2c)
 
