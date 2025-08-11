@@ -36,13 +36,13 @@ Agora que vocês já me conhecem, vamos falar com um pouco mais de detalhe sobre
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dwgHcFJ7_yA)](https://youtu.be/dwgHcFJ7_yA)
 
 **Slides disponíveis da aula 1:**
-- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
-- [Slides em formato pdf (para reprodução) e formato dop (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
 #### Links e recursos úteis após a aula 1
 
-- [Conteúdo do _Creative Commons Certificate for Educators_](https://certificates.creativecommons.org/about/certificate-resources-cc-by/)
-- [Cartilha da _Creative Commons_ Brasil](https://br.creativecommons.net/wp-content/uploads/sites/30/2021/02/CartilhaCCBrasil.pdf)
+- [Conteúdo do _Creative Commons Certificate for Educators_](https://certificates.creativecommons.org/about/certificate-resources-cc-by/).
+- [Cartilha da _Creative Commons_ Brasil](https://br.creativecommons.net/wp-content/uploads/sites/30/2021/02/CartilhaCCBrasil.pdf).
 
 ### Aula 2: Por que usar ou criar REA?
 
@@ -51,8 +51,8 @@ Nesta aula vou falar mais sobre os Recursos Educacionais Abertos, e a importânc
 [![](https://markdown-videos-api.jorgenkh.no/youtube/QnanHVzm2eA)](https://youtu.be/QnanHVzm2eA)
 
 **Slides disponíveis da aula 2:**
-- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
-- [Slides em formato pdf (para reprodução) e formato dop (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NVubwq9VC6DjLX3GX65FjvKmMlGYCfqOCTlLypM5Jfo/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
 #### _Creative Commons_: licenças, organização e movimento
 
@@ -80,8 +80,8 @@ Nesta aula vamos aprender sobre os elementos das licenças CC e conhecer as seis
 [![](https://markdown-videos-api.jorgenkh.no/youtube/_cC406nvbLc)](https://youtu.be/_cC406nvbLc)
 
 **Slides disponíveis da aula 3:**
-- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1h8HKLePEqBilQu5ALxNjE3F1ZAvvVnZJhT1FHJXzkpQ/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
-- [Slides em formato pdf (para reprodução) e formato dop (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1h8HKLePEqBilQu5ALxNjE3F1ZAvvVnZJhT1FHJXzkpQ/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
 **Texto complementar:** [As licenças _Creative Commons_, disponível na minha página do Medium.](https://marcosvital.medium.com/as-licen%C3%A7as-creative-commons-afaf9a82cd2c)
 
@@ -92,8 +92,8 @@ Agora vamos aprender como escolher a licença que desejamos usar em nossos mater
 [![](https://markdown-videos-api.jorgenkh.no/youtube/_DxuDBG5jro)](https://youtu.be/_DxuDBG5jro)
 
 **Slides disponíveis da aula 4:**
-- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1FwdsLRVceBZ1669yhoe6uLmSuwIp3RnlnEdAv5zn70s/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável)
-- [Slides em formato pdf (para reprodução) e formato dop (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1FwdsLRVceBZ1669yhoe6uLmSuwIp3RnlnEdAv5zn70s/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
 **Texto complementar:** [Usando e alterando conteúdos com licenças CC, na minha página do Medium.](https://marcosvital.medium.com/usando-e-alterando-conte%C3%BAdos-com-licen%C3%A7as-cc-cd2474ed02c8)
 
