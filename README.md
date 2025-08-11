@@ -103,12 +103,6 @@ Agora vamos aprender como escolher a licença que desejamos usar em nossos mater
 
 ***
 
-## Página em construção, vídeos e conteúdos estão sendo adicionados e editados.
-
-**Deste trecho em diante, o curso ainda não está 100% pronto.**
-
-***
-
 ## Módulo 3: as ferramentas
 
 Neste último módulo vamos aprender sobre ferramentas práticas que podem nos ajudar a colocar em prática a criação de REA dentro de um contexto acadêmico, em situações nas quais desejamos registrar de forma bem segura nossa autoria e adicionar o que criamos em nossos currículos. As três ferramentas que vou mostrar podem ser exploradas de forma independente, e você pode decidir quais delas usar.
@@ -117,13 +111,26 @@ Neste último módulo vamos aprender sobre ferramentas práticas que podem nos a
 
 Nesta aula vou mostrar como podemos criar e associar um DOI (um identificador de objeto digital) aos nossos REA, de forma gratuita usando o [Zenodo](https://zenodo.org/). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/CLG1p3x4NTQ)](https://youtu.be/CLG1p3x4NTQ)
+
+#### Links e recursos úteis após a aula 5:
+
+- [Zigs & Zags](https://marcosvital.github.io/Zigs-Zags-RPG/), o RPG de panfleto que usei como exemplo para uso do DOI para registrar o conteúdo e a autoria.
+- [V Simpósio de RPG, Larp e Educação](https://rolesimposio.com.br), página do evento que coordenei em 2024, com conteúdos abertos que incluem um livro com licença CC BY para o qual adicionamos um DOI e também um ISBN e ficha catalográfica (tema da aula a seguir).
 
 ### Aula 6: Solicitando e usando um ISBN e/ou ficha catalográfica pela Câmara Brasileira do Livro
 
 Nesta aula vou mostrar como você pode, ao criar um REA em formato de livro ou algo similar, solicitar um código ISBN e/ou uma ficha catalográfica para incluir em seu material. Este é um serviço pago, oferecido pela [Câmara Brasileira do Livro](https://cbl.org.br/). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/1X88_KYgyk8)](https://youtu.be/1X88_KYgyk8)
+
+***
+
+## Página em construção, vídeos e conteúdos estão sendo adicionados e editados.
+
+**Deste trecho em diante, o curso ainda não está 100% pronto.**
+
+***
 
 ### Aula 7: Criando uma página como a deste curso, usando o GitHub
 
